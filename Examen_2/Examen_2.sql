@@ -1,1 +1,0 @@
-SELECT * FROM examen2_rincon.asegurado;
